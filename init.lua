@@ -15,11 +15,6 @@ add-RADAR
 
 -- expose api
 player_radar={}
-player_radar.status={}
-player_radar_hud={}
-player_radar_obj={}
-player_radar_detected={}
-player_radar.hud_status={}
 
 player_radar.ABM=function(self)
   local meta= minetest.env:get_meta(self)
