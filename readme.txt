@@ -1,7 +1,7 @@
 player_radar 0.1
 Copyright (c) 2013 pandaro <padarogames@gmail.com>
 
-sourcecode:
+sourcecode:https://github.com/pandaro/player_radar
 code:GPLv3
 pictures:WTFPL
 depends:default
